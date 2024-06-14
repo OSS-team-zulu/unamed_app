@@ -155,7 +155,7 @@ class MapComponent extends Component {
       dark: "	https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png",
       osm: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       hot: "https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
-
+      stamen: "https://stamen-tiles.{s}.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg"
     }
 
     return (
